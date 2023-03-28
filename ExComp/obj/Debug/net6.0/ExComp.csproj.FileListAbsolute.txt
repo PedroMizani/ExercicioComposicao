@@ -1,0 +1,15 @@
+C:\PROJETOS CS\ExComp\ExComp\bin\Debug\net6.0\ExComp.exe
+C:\PROJETOS CS\ExComp\ExComp\bin\Debug\net6.0\ExComp.deps.json
+C:\PROJETOS CS\ExComp\ExComp\bin\Debug\net6.0\ExComp.runtimeconfig.json
+C:\PROJETOS CS\ExComp\ExComp\bin\Debug\net6.0\ExComp.dll
+C:\PROJETOS CS\ExComp\ExComp\bin\Debug\net6.0\ExComp.pdb
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\ExComp.csproj.AssemblyReference.cache
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\ExComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\ExComp.AssemblyInfoInputs.cache
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\ExComp.AssemblyInfo.cs
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\ExComp.csproj.CoreCompileInputs.cache
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\ExComp.dll
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\refint\ExComp.dll
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\ExComp.pdb
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\ExComp.genruntimeconfig.cache
+C:\PROJETOS CS\ExComp\ExComp\obj\Debug\net6.0\ref\ExComp.dll
